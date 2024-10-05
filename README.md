@@ -56,13 +56,13 @@
 
 <h3>📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-SUBIKA&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subikaselvaraj&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-SUBIKA&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subikaselvaraj&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=S-SUBIKA&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subikaselvaraj&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <hr>
@@ -70,7 +70,7 @@
 <h3>🏆 Achievements</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=M-VINOTHKUMAR&theme=radical&row=1&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=subikaselvaraj&theme=radical&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </p>
 
